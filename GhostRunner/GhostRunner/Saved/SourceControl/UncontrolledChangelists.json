@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/sound/Ash_Dash.uasset",
+				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/sound/Ash_Jump.uasset",
+				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/sound/Apex_double_jump.uasset",
+				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/sound/Apex_landing.uasset",
+				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/Materials/Cable.uasset",
 				"D:/796/Ghostrunner/GhostRunner/GhostRunner/GhostRunner/Content/Input/IA_Dash.uasset",
 				"D:/796/Ghostrunner/GhostRunner/GhostRunner/GhostRunner/Content/Input/IMC_Default.uasset",
 				"D:/UE_5.6/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
@@ -13,12 +19,7 @@
 				"D:/796/Ghostrunner/GhostRunner/GhostRunner/GhostRunner/Content/Materials/M_Wall.uasset",
 				"D:/796/Ghostrunner/GhostRunner/GhostRunner/GhostRunner/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/Z2/C6LFKWTTZFPHNQ5VYCFFMY.uasset",
 				"D:/796/Ghostrunner/GhostRunner/GhostRunner/GhostRunner/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/FQ/HZKPLFVW8F1H99OUS35J05.uasset",
-				"D:/796/Ghostrunner/GhostRunner/GhostRunner/GhostRunner/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2J/TBQ0QYJC1YJ4P116NF1H3L.uasset",
-				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/sound/Ash_Dash.uasset",
-				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/sound/Ash_Jump.uasset",
-				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/sound/Apex_double_jump.uasset",
-				"E:/RIT/796/P2/GhostRunner/GhostRunner/GhostRunner/Content/sound/Apex_landing.uasset"
+				"D:/796/Ghostrunner/GhostRunner/GhostRunner/GhostRunner/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2J/TBQ0QYJC1YJ4P116NF1H3L.uasset"
 			]
 		}
 	]
